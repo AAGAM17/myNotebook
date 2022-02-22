@@ -1,0 +1,15 @@
+{
+  "name": "mynotebook-backend",
+  "version": "1.0.0",
+  "description": "myNoteBook A Note Book on Cloud For Your Notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.3"
+  }
+}
