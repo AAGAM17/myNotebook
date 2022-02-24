@@ -10,7 +10,7 @@ git clone https://github.com/AAGAM17/myNoteBook.git
 npm install or yarn
 ```
 
-# Than cd into backend folder and Run
+# Cd into backend folder and Run
 
 ```sh
 cd backend
