@@ -10,6 +10,16 @@ git clone https://github.com/AAGAM17/myNoteBook.git
 npm install or yarn
 ```
 
+# Than cd into backend folder and Run
+
+```sh
+cd backend
+```
+
+```sh
+npm install or yarn
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
