@@ -1,3 +1,29 @@
+# See Live App
+
+https://mynb.netlify.app/login
+
+# Clone Project
+
+```sh
+git clone https://github.com/AAGAM17/myNoteBook.git
+```
+
+# After Clonning And Opening The Project Run
+
+```sh
+npm install or yarn
+```
+
+# Cd into backend folder and Run
+
+```sh
+cd backend
+```
+
+```sh
+npm install or yarn
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
