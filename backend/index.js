@@ -1,9 +1,12 @@
 const connectToMongo = require("./db");
-connectToMongo();
-
 const express = require("express");
+var cors = require('cors')
+
+connectToMongo();
 const app = express();
 const port = 5001;
+
+app.use(cors())
 app.use(express.json());
 
 //Available Routes
@@ -15,5 +18,5 @@ app.get("/", (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`Example app listening on port http://localhost:${port}`);
+  console.log(`myNoteBook Backend listening on port http://localhost:${port}`);
 });
