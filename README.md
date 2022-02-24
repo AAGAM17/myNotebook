@@ -1,6 +1,6 @@
 # See Live App
 
-https://mynb.netlify.app/login
+https://mynb.netlify.app/
 
 # Clone Project
 
