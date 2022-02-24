@@ -1,10 +1,14 @@
 # Clone Project
 
-### `git clone https://github.com/AAGAM17/myNoteBook.git`
+```sh
+`git clone https://github.com/AAGAM17/myNoteBook.git`
+```
 
 # After Clonning And Opening The Project Run
 
-### `npm install` or `yarn`
+```sh
+`npm install` or `yarn`
+```
 
 # Getting Started with Create React App
 
